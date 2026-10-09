@@ -1,0 +1,6 @@
+{
+  "name": "Nexora AI",
+  "description": "Nexora AI — Premium AI SaaS product landing page with interactive AI preview, workflow automation dashboard mockup, live pricing calculator, and accessible FAQ accordion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
